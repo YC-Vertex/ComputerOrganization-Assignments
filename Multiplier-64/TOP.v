@@ -1,3 +1,5 @@
+`include "Booth4.v"
+
 module TOP(
     input   wire    clk,
     input   wire    nrst,
